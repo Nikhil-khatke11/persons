@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(170, 50, 138);
+}
+
+.main-title {
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.person-name {
+    color: white;
+    font-size: 30px;
+}
+
+.person-text {
+    font-size: 22px;
+    color: white;
+    text-align: justify;
+}
+
+.fav-person-img-rohit {
+    
+    border-radius: 50%;
+    border: 8px solid rgb(255, 255, 255);
+    width: 360px;
+    height: 400px;
+}
+
+.person-desc-rohit {
+    width: 70%;
+    margin-left: 28%;
+    margin-top: -380px;
+    text-align: justify;
+}
+
+.fav-person-img-dishuu {
+    border-radius: 50%;
+    border: 8px solid rgb(206, 128, 25);
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 360px;
+    height: 400px;
+}
+
+.person-desc-dishuu {
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.fav-person-img-cillian {
+    border-radius: 50%;
+    border: 8px solid rgba(0, 0, 0, 0.927);
+    width: 370px;
+    height: 405px;
+}
+
+.person-desc-cillian {
+    width: 70%;
+    margin-left: 28%;
+    margin-top: -380px;
+    text-align: justify;
+}
+
+.fav-person-img-arijit {
+    border-radius: 50%;
+    border: 8px solid rgba(27, 10, 20, 0.926);
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 360px;
+    height: 400px;
+}
+
+.person-desc-arijit {
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.fav-person-img-zakir {
+    border-radius: 50%;
+    border: 10px solid rgb(57, 16, 73);
+    width: 370px;
+    height: 400px;
+}
+
+.person-desc-zakir {
+    width: 70%;
+    margin-left: 28%;
+    margin-top: -380px;
+    text-align: justify;
+}
+
+.created-by {
+    font-size: medium;
+}
